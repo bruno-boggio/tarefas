@@ -1,6 +1,6 @@
 # Projeto pra criar notas e tarefas pro dia a dia
 
-## Tecnologia utilizada
+## Tecnologias utilizada
 * React Js
 * Html
 * Css
